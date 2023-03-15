@@ -1,0 +1,13 @@
+List of features that we discovered:
+	- There is a only one menu for all domain models:
+			- display the list of students
+			- display the list of homeworks
+			- display the list of grades
+			- add a student
+			- add a homework
+			- add a grade
+			- delete a student
+			- delete a homework
+			- modify a student
+			- reschedule a homework
+	        	-exit the app

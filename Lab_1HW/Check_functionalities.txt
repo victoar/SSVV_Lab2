@@ -1,0 +1,4 @@
+All these 3 functionalities can be called from the UI:
+• Add a Student
+• Add a Laboratory assignment
+• Add a Grade to a Student at a given Laboratory assignment.
